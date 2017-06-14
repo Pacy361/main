@@ -1,0 +1,53 @@
+﻿<list>
+<m label="视友直播">
+<m type="2" src="http://116.213.146.71:554/5" label="CCTV-1 综合频道" />
+<m type="2" src="http://116.213.146.71:554/6" label="CCTV-2 财经频道" />
+<m type="2" src="http://116.213.146.71:554/2" label="CCTV-3 综艺频道" />
+<m type="2" src="http://116.213.146.71:554/9" label="CCTV-4 中文国际" />
+<m type="2" src="http://116.213.146.71:554/7" label="CCTV-5 体育频道" />
+<m type="2" src="http://116.213.146.71:554/28" label="CCTV-6 电影频道" />
+<m type="2" src="http://116.213.146.71:554/20" label="CCTV-8 电视剧" />
+<m type="2" src="http://116.213.146.71:554/37" label="CCTV-9 中央记录" />
+<m type="2" src="http://116.213.146.71:554/39" label="CCTV-12 社会与法" />
+<m type="2" src="http://116.213.146.71:554/10" label="CCTV-13 新闻" />
+<m type="2" src="http://116.213.146.71:554/8" label="CCTV-15 音乐频道" />
+<m type="2" src="http://116.213.146.71:554/24" label="CCTV-第一剧场" />
+<m type="2" src="http://116.213.146.71:554/25" label="CCTV-央视精品" />
+<m type="2" src="http://116.213.146.71:554/26" label="CCTV-怀旧剧场" />
+<m type="2" src="http://116.213.146.71:554/27" label="CCTV-风云足球" />
+<m type="2" src="http://116.213.146.71:554/29" label="CCTV-风云音乐" />
+<m type="2" src="http://116.213.146.71:554/30" label="CCTV-风云剧场" />
+<m type="2" src="http://116.213.146.71:554/17" label="CCTV-发现之旅" />
+<m type="2" src="http://116.213.146.71:554/31" label="CCTV-世界地理" />
+<m type="2" src="http://116.213.146.71:554/16" label="CCTV-音像世界" />
+<m type="2" src="http://116.213.146.71:554/35" label="北京卫视" />
+<m type="2" src="http://116.213.146.71:554/14" label="东方卫视" />
+<m type="2" src="http://116.213.146.72:554/104" label="新视觉" />
+<m type="2" src="http://116.213.146.71:554/19" label="劲爆体育" />
+<m type="2" src="http://116.213.146.71:554/34" label="天津卫视" />
+<m type="2" src="http://116.213.146.71:554/22" label="重庆卫视" />
+<m type="2" src="http://116.213.146.71:554/42" label="新科动漫" />
+<m type="2" src="http://116.213.146.71:554/40" label="宁夏卫视" />
+<m type="2" src="http://116.213.146.71:554/12" label="四川卫视" />
+<m type="2" src="http://116.213.146.71:554/32" label="山东卫视" />
+<m type="2" src="http://116.213.146.71:554/45" label="湖南卫视" />
+<m type="2" src="http://116.213.146.71:554/49" label="湖南公共" />
+<m type="2" src="http://116.213.146.71:554/48" label="湖南都市" />
+<m type="2" src="http://116.213.146.71:554/47" label="湖南娱乐" />
+<m type="2" src="http://116.213.146.71:554/46" label="湖南经视" />
+<m type="2" src="http://116.213.146.71:554/52" label="湖南金鹰纪实" />
+<m type="2" src="http://116.213.146.71:554/53" label="湖南金鹰卡通" />
+<m type="2" src="http://116.213.146.71:554/51" label="湖南潇湘电影" />
+<m type="2" src="http://116.213.146.71:554/50" label="湖南电视剧" />
+<m type="2" src="http://116.213.146.71:554/33" label="江苏卫视" />
+<m type="2" src="http://116.213.146.71:554/23" label="浙江卫视" />
+<m type="2" src="http://116.213.146.71:554/36" label="留学世界" />
+<m type="2" src="http://116.213.146.71:554/15" label="广东卫视" />
+<m type="2" src="http://116.213.146.71:554/18" label="英语辅导" />
+<m type="2" src="http://116.213.146.71:554/13" label="深圳卫视" />
+<m type="2" src="http://116.213.146.71:554/38" label="深圳DV生活" />
+<m type="2" src="http://116.213.146.71:554/21" label="贵州摄影" />
+<m type="2" src="http://116.213.146.71:554/44" label="新疆卫视" />
+<m type="2" src="http://116.213.146.71:554/41" label="旅游卫视" />
+</m>
+</list>

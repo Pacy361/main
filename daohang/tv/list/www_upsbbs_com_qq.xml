@@ -1,0 +1,50 @@
+<list>
+<m label="QQ直播">
+<m type="2" src="http://zb.v.qq.com:1863/?progid=403651632&rid=96700132F908F801254025A6BA926786A4E9235C&apptype=live" label="春晚[标清1] "/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=403651632&rid=80EE6C6F0430C6FB3539769D3C30FCB05395C3CE&apptype=live" label="春晚[标清2]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=403651632&rid=84216582B0507AB422D948D814F5C7FFF6534639&apptype=live" label="春晚[标清3]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=403651632&rid=39AC87AAD3CD388F73EA83A9C509EAAC44676CB3&apptype=live" label="春晚[标清4]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=403651632&rid=AFC5E9B4E2DE0A9CC3600517028276054B425E5D&apptype=live" label="春晚[标清5]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=403651632&rid=FAB0360E253C76A888C6BE2BC48A7BA082ACCDB7&apptype=live" label="春晚[标清6]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=403651632&rid=A8A46F3B11357A22E706EDFB682849D18E931AF7&apptype=live" label="春晚[标清7]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=403651632&rid=AD176224FE6844A854AA3E018F1D634DC08D7480&apptype=live" label="春晚[标清8]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1980972519&rid=D8449FEA11C4391A661D28F7C00AE1A01614BBDD&apptype=live" label="春晚[高清1]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1980972519&rid=C114460EFBB6EF3CF26423ECF5E45F19D61DAC3A&apptype=live" label="春晚[高清2]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1980972519&rid=1FEDDA277D3F1E381AD88D35DBB086321455C0C8&apptype=live" label="春晚[高清3]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1980972519&rid=CDAB5BB98FC29F551D3AE37966BA6EE9DBAD6830&apptype=live" label="春晚[高清4]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2414742998&rid=B5FCDB7941B2509999E1181035D1E73B0DC8E91F&apptype=live" label="北京卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1039787969&rid=E66F69BE7B0312BDF574ADFFBBCAEBFD69B9B99E&apptype=live" label="北京卫视高清"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=3661744838&rid=159DC4AA98E2A6F559120CBCFED9E397DA1050A6&apptype=live" label="东方卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=3900155972&rid=95EF626D96474F4F89E75ADBCE1E10F78A64BFEE&apptype=live" label="东方卫视高清"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=830075195&rid=6838B894D47C78B4BA891AB456556A6F21B32C60&apptype=live" label="天津卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2905421066&rid=DDD7CA879E1C9C369CEEA5A89F20F433D75574C3&apptype=live" label="重庆卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=3006271240&rid=A3F1196C2F2D85B9A4F888E5DE28411EAD6F33C8&apptype=live" label="辽宁卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2342060367&rid=B064A7A98966DB461E560F3FA63E20B3F373DCDB&apptype=live" label="内蒙卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=3444760127&rid=9EE000296A2A38ADDAFEF7E5C7EBB8C7ECC4963D&apptype=live" label="甘肃卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2453801339&rid=21FD64375CFB330D9E7437BD59EF7D4CE0CA41FA&apptype=live" label="四川卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2739752321&rid=14FACD4FE44B423D15220F3ECB606EC0EB0D68EB&apptype=live" label="陕西卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=3660187036&rid=5724D65E8B73F41DB327E4DA8DA34216189A8754&apptype=live" label="山东卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=623043810&rid=B11D9407FBF888BEE9623D3CA354C7F624C9929D&apptype=live" label="安徽卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=4172356212&rid=851626660ABE138CFEDD3D0B48FFA577EC83CE82&apptype=live" label="河南卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1128831868&rid=C2F8B0174439DE701716C56124BB011F97C471F6&apptype=live" label="湖北卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=3734750453&rid=56B78E4855A95060493EC256948DC563C28F1882&apptype=live" label="湖南卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=18091377&rid=E67A82F72F658338C724DEF54E959F634CE6F22E&apptype=live" label="湖南卫视高清"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1424066668&rid=8ABA65A34B8564CAFBF35724C0FE86B705CE06AF&apptype=live" label="金鹰卡通"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1258215255&rid=5021C403CA2F57538982AC14ADE59D254C5DAB3A&apptype=live" label="江苏卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2674956498&rid=3412A5896CFBFE60F22237CA18EAC7F1E4B05642&apptype=live" label="江苏卫视高清"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2907109968&rid=1EF6CE05A40F29E89744A4D055EC24EAB190D0F8&apptype=live" label="浙江卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1975434150&rid=DDD29830FB2A59FB16C88DAE3E56DDD9437E3AE1&apptype=live" label="浙江卫视高清"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1000637964&rid=B2E5D5EFD8B7ADD373C1BC113A5BFEF1AFFFB03A&apptype=live" label="东南卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2084914015&rid=1C973142863EDB1C08CDE5449D46246BF401D71B&apptype=live" label="广东卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=857894899&rid=EC8527F7ED03B0D7463088E0B34EE9BD65971D56&apptype=live" label="广东卫视高清"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1926463423&rid=08F38497717D15D6FF210C60361FC817AB3C6BDB&apptype=live" label="珠江频道"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=4035478592&rid=A5D79AFDA27DBCA42AD3165D08A045C385335048&apptype=live" label="广东公共"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2631736979&rid=D94821EB4C958D8BBD9195AF6214917FB2135FFC&apptype=live" label="广东新闻"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1249794075&rid=7E094F9B029015F7E9B88E7D6AB555A6D9E71133&apptype=live" label="嘉佳卡通"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2309309351&rid=29B89255299DBD2AE1DB177A0F810FA424C76C32&apptype=live" label="深圳卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2220552576&rid=04F9BAC284DF29EAF1B41D62362EAE5E44605364&apptype=live" label="深圳卫视高清"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=708402866&rid=9A471AE7DB3D25656FD8281E4FDA5AA19AA7D476&apptype=live" label="云南卫视"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=3051487004&rid=D11D2F434B2DD62F7234301F8957D33F40B78038&apptype=live" label="贵州卫视 "/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=974433428&rid=3650C4152F5AD3E3EB6F72C1AB6BAF96BE45375A&apptype=live" label="广西卫视"/>
+</m>
+</list>

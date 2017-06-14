@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	
+	<servlet>
+    <servlet-name>Port</servlet-name>
+    <servlet-class>com.createclouds.action.port.Port</servlet-class>
+    </servlet>
+  
+   <servlet-mapping>
+    	<servlet-name>Port</servlet-name>
+    	<url-pattern>/Port</url-pattern>
+  	</servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Sign</servlet-name>
+    <servlet-class>com.createclouds.action.sign.Sign</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>Sign</servlet-name>
+    <url-pattern>/Sign</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>toSign</servlet-name>
+    <servlet-class>com.createclouds.action.sign.toSign</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>toSign</servlet-name>
+    <url-pattern>/toSign</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+    <servlet-name>Login</servlet-name>
+    <servlet-class>com.createclouds.action.login.Login</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>Login</servlet-name>
+    <url-pattern>/Login</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>toLogin</servlet-name>
+    <servlet-class>com.createclouds.action.login.toLogin</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>toLogin</servlet-name>
+    <url-pattern>/toLogin</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Resources</servlet-name>
+    <servlet-class>com.createclouds.action.resources.Resources</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>Resources</servlet-name>
+    <url-pattern>/Resources</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>toHelp</servlet-name>
+    <servlet-class>com.createclouds.action.toHelp</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>toHelp</servlet-name>
+    <url-pattern>/toHelp</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>toAbout</servlet-name>
+    <servlet-class>com.createclouds.action.toAbout</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>toAbout</servlet-name>
+    <url-pattern>/toAbout</url-pattern>
+  </servlet-mapping>
+
+  
+   <servlet>
+    <servlet-name>toMan</servlet-name>
+    <servlet-class>com.createclouds.action.toMan</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>toMan</servlet-name>
+    <url-pattern>/toMan</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>toWeb</servlet-name>
+    <servlet-class>com.createclouds.action.toWeb</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>toWeb</servlet-name>
+    <url-pattern>/toWeb</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>toSql</servlet-name>
+    <servlet-class>com.createclouds.action.toSql</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>toSql</servlet-name>
+    <url-pattern>/toSql</url-pattern>
+  </servlet-mapping>
+  
+  
+    <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
